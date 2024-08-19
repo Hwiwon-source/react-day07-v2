@@ -6,3 +6,6 @@ Day07 Project 재제출
 
 git 리포지토리 주소
 https://github.com/Hwiwon-source/react-day07-v2
+
+netlify 도메인 주소
+https://fantastic-kashata-cec2de.netlify.app
